@@ -1,0 +1,3 @@
+Data structure:
+Browser <==> Front-End (HTML, CSS) <==> Blockchain (smart contract, ledger, etc.)
+
