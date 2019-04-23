@@ -1,3 +1,5 @@
 Data structure:
 Browser <==> Front-End (HTML, CSS) <==> Blockchain (smart contract, ledger, etc.)
 
+
+https://www.youtube.com/watch?v=3681ZYbDSSk
